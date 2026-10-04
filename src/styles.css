@@ -1,4 +1,17 @@
-:root{font-family:Old English Text MT, Courier New, serif;color:#151a21;background:#fff;--black:#07090d;--blue:#0871df;--red:#e31c23}
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap');
+
+:root {
+  font-family: Arial, sans-serif;
+  color: #151a21;
+  background: #fff;
+  --black: #07090d;
+  --blue: #0871df;
+  --red: #e31c23;
+}
+
+.old-english {
+  font-family: 'UnifrakturCook', cursive;
+}
 *{box-sizing:border-box}
 body{margin:0}
 a{text-decoration:none;color:inherit}
