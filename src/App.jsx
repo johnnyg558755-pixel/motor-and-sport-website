@@ -263,7 +263,7 @@ function CTA() {
 function Home() {
   return (
     <Shell>
-      <section className="Arial, sans-serif">
+      <section className="">
         <div>
           <span className="eyebrow">GARLAND'S LOCAL AUTO REPAIR SHOP</span>
           <h1>
